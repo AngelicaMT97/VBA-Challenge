@@ -26,6 +26,8 @@ View the output in the Excel file.
 Ensure macros are enabled in Excel.
 Save a backup of StockData.xlsx before running the script.
 
+i'm not Good!
+
 Once the script completes, check the results in the Excel file.
 Each stock sheet will now include columns for Yearly Change, Percentage Change, and Total Volume.
 
