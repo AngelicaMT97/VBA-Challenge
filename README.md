@@ -4,12 +4,8 @@ README FILE
 # CHANLLENGE 2 - STOCK DATA ANALYSIS WITH VBA 
 
 # Overview:
-Welcome to the Challenge 2 repository! This project involves an Excel file containing a database of stocks and a VBA script for analyzing and summarizing key metrics. The script calculates the yearly change, percentage change per year, and total volume for each stock.
 
-Project Components:
-StockData.xlsx: The Excel file contains the dataset of stocks. Each sheet represents a different year, with columns for The name of the stock, Date, Open Price, High Price, Low Price, Close Price, and Volume.
-
-VBA Script - StockAnalysis.vba:
+Welcome to the Challenge 2 repository! This project focuses on utilizing VBA (Visual Basic for Applications) to analyze stock data. The primary goal is to develop a VBA script that calculates the yearly change, percentage change per year, and the total volume of a given stock.
 
 # Functionality:
 
@@ -18,14 +14,12 @@ VBA Script - StockAnalysis.vba:
 #Computes the total volume of each stock.
 
 #How to Run:
-Open the Excel file (StockData.xlsx).
+Open the Excel file (multiple_year_stock_data.xlsx).
 Enable macros if prompted.
-Run the VBA script (Alt + F8), choose "StockAnalysis" macro, and execute.
+Paste the code on the VBA script (Alt + F8), and run it.
 View the output in the Excel file.
 
 Ensure macros are enabled in Excel.
-Save a backup of StockData.xlsx before running the script.
-
 
 Once the script completes, check the results in the Excel file.
 Each stock sheet will now include columns for Yearly Change, Percentage Change, and Total Volume.
